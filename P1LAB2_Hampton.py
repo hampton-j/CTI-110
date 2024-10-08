@@ -24,6 +24,7 @@ print("You ordered", num_burgers , "burgers")
 
 print("Can I take your order?")
 
+
 num_fries = int(input("how many fries ? "))
 print("Ok, that's" , num_fries , "french fries.")
 
@@ -40,3 +41,5 @@ print(num_burgers, "burger\t$", burger_total)
 print(num_fries, "fry\t\t$", fry_total)
 print("-" * 20)
 print("Total\t\t$" , meal_total)
+
+P1LAB2_Hampton.py
