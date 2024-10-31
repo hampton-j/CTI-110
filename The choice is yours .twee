@@ -1,0 +1,48 @@
+:: StoryTitle
+The choice is yours 
+
+
+:: StoryData
+{
+  "ifid": "C0AB9AA6-4F7C-4CA3-BF55-009408226696",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Story Start ",
+  "zoom": 1
+}
+
+
+:: Air lock {"position":"900,600","size":"100,100"}
+
+
+
+:: Back Door {"position":"1025,475","size":"100,100"}
+img
+
+<img src="https://raw.githubusercontent.com/hampton-j/CTI-110/refs/heads/main/alienpics/Alien.webp">
+
+
+
+:: Crew quarters {"position":"1025,600","size":"100,100"}
+
+
+
+:: Med Bay\  {"position":"900,475","size":"100,100"}
+
+
+
+:: Story Start\  {"position":"900,350","size":"100,100"}
+Walking back into your office you notice the door agar and the light on 
+
+
+
+[[]]
+[[Med Bay ]]
+[[cargo hold ]]
+[[Air lock]]
+[[Crew quarters]]
+
+
+
+:: cargo hold\  {"position":"775,475","size":"100,100"}
+
